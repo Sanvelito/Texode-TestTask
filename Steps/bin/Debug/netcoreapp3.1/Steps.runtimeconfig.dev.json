@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ggena\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ggena\\.nuget\\packages",
+      "G:\\visual\\Shared\\NuGetPackages"
+    ]
+  }
+}
